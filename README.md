@@ -4,12 +4,6 @@ I'm [Samuel](#), a software engineer based in Nigeria.
 
 I love building things and solving problems through experimentation. My repos are a mix of production work and learning experiments—each one a step in my journey.
 
-## What I'm Working On
-
-- 🔭 Building with Hono backend and React TanStack Start
-- 🌱 Deep diving into scalable architecture and distributed systems
-- 💡 Exploring machine learning with Python, currently learning Java
-
 ## Tech Stack
 
 **Languages:** JavaScript/TypeScript, Go, Python, Java (exploring)  
